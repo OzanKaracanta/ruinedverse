@@ -1,0 +1,180 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.navbar-brand{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.navbar-brand:hover{
+    
+    color: #C1FF5D
+    
+}
+
+
+body{
+    font-family: 'Rajdhani', sans-serif;
+    background: rgb(255,79,36);
+    background: radial-gradient(circle, rgba(255,79,36,1) 0%, rgba(201,33,26,1) 50%);
+    height: 100vh;
+}
+
+.nav-item{
+    padding-left: 24px;
+    
+}
+
+.nav-item a{
+    color: white;
+    font-weight: 400;
+}
+
+.nav-item a:hover{
+    color: #C1FF5D;
+}
+
+.container-s{
+    max-width: 820px;
+    margin: auto;
+    margin-top: 3%;
+
+}
+
+.hero-wrapper{
+    position: absolute;
+    margin-top: 64px;
+    
+}
+
+.hero-text-left{
+    color: white;
+    font-size: 48px;
+    font-weight: 600;
+    padding-top: 48px;
+    position: absolute;
+
+}
+
+.hero-text-center{
+    color: white;
+    font-size: 160px;
+    font-weight: 600;
+    padding-top: 64px;
+    text-align: center;
+
+}
+
+.hero-text-end{
+    color: white;
+    font-size: 48px;
+    font-weight: 600;
+   text-align: end;
+    margin-top: -80px;
+}
+
+.planet-main{
+    position: absolute;
+    width: 600px;
+    margin-bottom: 100px;
+    z-index: -1;
+    margin-left: 100px;
+}
+
+.planets-alt{
+    margin-left: 96px;
+    padding-top: 420px;
+}
+
+.planet-1{
+    width: 200px;
+}
+
+.planet-2{
+    padding-top: 64px;
+    width: 200px;
+}
+
+.planet-3{
+    width: 200px;
+}
+
+.story-section{
+    margin-top: 48px;
+}
+
+.story-title{
+    font-size: 300px;
+    text-align: center;
+    color: white;
+    font-weight: 200;
+}
+
+.story-img{
+    position: absolute;
+    left: 70%;
+    padding-top: 48px;
+}
+
+.story-img-1{
+    position: absolute;
+  
+}
+
+.story-img-1 img{
+    width: 420px;
+}
+
+.story-subtitle{
+    font-size: 64px;
+    color: white;
+    text-align: center;
+
+}
+
+.story-text{
+    max-width: 1024px;
+    color: white;
+    margin: auto;
+    text-align: justify;
+    font-size: 24px;
+}
+
+.store-section{
+    padding-top: 128px;
+    margin: auto;
+    text-align: center;
+    font-size: 54px;
+    color: white;
+    font-weight: 600;
+}
+
+.button{
+    background-color: transparent;
+    border: #C1FF5D dashed 2px;
+}
+
+.store-section a{
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.store-section a:hover{
+    color: #C1FF5D;
+}
+
+.footer{
+    margin-top: 128px;
+    height: 200px;
+    background-color: #FB4B23;
+}
+
+.footer-section{
+    padding-top: 56px;
+}
