@@ -3,6 +3,7 @@ a{
     color: white;
 }
 
+
 .navbar-brand{
     text-decoration: none;
     color: rgb(255, 255, 255);
@@ -15,7 +16,6 @@ a{
     color: #C1FF5D
     
 }
-
 
 
 
@@ -144,7 +144,10 @@ body{
     margin: auto;
     text-align: justify;
     font-size: 24px;
+
 }
+
+
 
 .store-section{
     padding-top: 128px;
@@ -170,6 +173,88 @@ body{
 .store-section a:hover{
     color: #C1FF5D;
 }
+
+.collection{
+    margin-top: 128px;
+}
+
+.collection-title h2{
+    
+        font-size: 200px;
+        text-align: center;
+        color: white;
+        font-weight: 400;
+    
+}
+
+.collection-row{
+    padding-top: 48px;
+}
+
+.collection-subtitle h4{
+    
+    font-size: 48px;
+    text-align: center;
+    color: white;
+    font-weight: 200;
+
+}
+
+
+.roadmap{
+    position: relative;
+    height: 2000px;
+    margin-top: 128px;
+}
+
+.roadmap-planets{
+    position: absolute;
+    z-index: -2;
+}
+
+
+
+.roadmap-title h2{
+        font-size: 200px;
+        text-align: center;
+        color: white;
+        font-weight: 400;
+}
+
+.roadmap-subtitle{
+    color: white;
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.roadmap-text{
+    color:white ;
+    max-width: 600px;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: justify;
+}
+
+.roadmap-1{
+    margin-left: 480px;
+    margin-top: 128px;
+}
+
+.roadmap-2{
+    margin-left: 780px;
+    margin-top: 256px;
+}
+
+.roadmap-3{
+    margin-left: 780px;
+    margin-top: 464px;
+}
+
+.roadmap-4{
+    margin-left: 480px;
+    margin-top: 320px;
+}
+
 
 .footer{
     margin-top: 128px;
